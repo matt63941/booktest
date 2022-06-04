@@ -1,7 +1,5 @@
 # Rééducation émotionnelle
 
-
-
 #### Rigueur intellectuelle : contenir le chaos psychologique avide de spectacle
 
 \-Speculations, conjectures, raisonnement basé sur des idées non experimentée Pourquoi semporter dans un raisonnement portant sur les sujets les plus complexes, et y prendre parti, etablir des affirmations gratuites, arbitraires, qui figent les possibilités ? Comme si le philosophe etait pressé davancer dans le traitement de tous les sujets, en courtcircuitant les zones mysterieuses par des affirmations gratuites.
@@ -22,7 +20,6 @@ Droit de ne pas savoir, mais devoir de se demander si A relier a lintegrité : i
 
 \
 
-
 \-Retraite isolée pour approfondir et realiser, et retraite en societé pour discerner et orienter dans laction
 
 \-entre toutes les sollicitations mentales de la vie moderne, et leur absence dans une retraite spirituelle
@@ -32,7 +29,6 @@ Droit de ne pas savoir, mais devoir de se demander si A relier a lintegrité : i
 \-La culture est le moteur du navire, lancé a fond, inarretable, en regime croissant car tout le monde est focalisé sur sa puissance, la vitesse quil procure au navire, la distance qui est couverte. Le philosophe est celui qui conseille lorientation de la navigation. Pour cela il se desinteresse des details operationnels du navire, pour mieux observer sa trajectoire, son organisation interne.
 
 \
-
 
 #### Bruit culturel et progres social <a href="#__refheading___toc1748_2252413377" id="__refheading___toc1748_2252413377"></a>
 
@@ -92,7 +88,6 @@ Droit de ne pas savoir, mais devoir de se demander si A relier a lintegrité : i
 
 \
 
-
 \-Retraite isolée pour approfondir et realiser, et retraite en societé pour discerner et orienter dans laction
 
 \-entre toutes les sollicitations mentales de la vie moderne, et leur absence dans une retraite spirituelle
@@ -102,7 +97,6 @@ Droit de ne pas savoir, mais devoir de se demander si A relier a lintegrité : i
 \-La culture est le moteur du navire, lancé a fond, inarretable, en regime croissant car tout le monde est focalisé sur sa puissance, la vitesse quil procure au navire, la distance qui est couverte. Le philosophe est celui qui conseille lorientation de la navigation. Pour cela il se desinteresse des details operationnels du navire, pour mieux observer sa trajectoire, son organisation interne.
 
 \
-
 
 #### Bruit culturel et progres social <a href="#__refheading___toc1748_2252413377" id="__refheading___toc1748_2252413377"></a>
 
@@ -162,7 +156,6 @@ Droit de ne pas savoir, mais devoir de se demander si A relier a lintegrité : i
 
 \
 
-
 \-Retraite isolée pour approfondir et realiser, et retraite en societé pour discerner et orienter dans laction
 
 \-entre toutes les sollicitations mentales de la vie moderne, et leur absence dans une retraite spirituelle
@@ -172,7 +165,6 @@ Droit de ne pas savoir, mais devoir de se demander si A relier a lintegrité : i
 \-La culture est le moteur du navire, lancé a fond, inarretable, en regime croissant car tout le monde est focalisé sur sa puissance, la vitesse quil procure au navire, la distance qui est couverte. Le philosophe est celui qui conseille lorientation de la navigation. Pour cela il se desinteresse des details operationnels du navire, pour mieux observer sa trajectoire, son organisation interne.
 
 \
-
 
 #### Bruit culturel et progres social <a href="#__refheading___toc1748_2252413377" id="__refheading___toc1748_2252413377"></a>
 
@@ -211,4 +203,3 @@ La construction dun individu implique une certaine limite sous la forme dune con
 On ne developpe pas une maison, On construit une maison, qui remplit ensuite une fonction de base, sous jacente aux activités humaines, avec des adaptations ponctuelles.
 
 \-on construit un adulte à partir d’un enfant ; puis l’adulte choisit ou pas de développer certaines dimensions en fonction des nécessités ET des possibilités
-
