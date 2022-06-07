@@ -2,14 +2,10 @@
 
 Hypothèse principale : la souffrance mentale provient de l’usage incorrect de l'espace mental
 
-test de modif par marktext
-test de modif par zettlrRRRRRRRRRRRRRRRRRRRRRRR
-
 Quoique puissent se plaire à imaginer les esthètes au sujet d'une vague essence romantique de notre existence, la vie humaine est fondée sur la pensée. Comment penser pour que notre esprit ne se limite pas lui-même dans l'erreur et la souffrance ?
 
 En désaccord avec la croyance la plus universelle : l'état d'esprit est façonné par les circonstances; les circonstances désagréables créent la souffrance mentale.
-TEST de retour à la ligne.
-TEST.
+
 
 Postulat avancé : tout se passe "dans" l'esprit
 
@@ -24,3 +20,4 @@ Les animaux ont beaucoup de problèmatiques existentielles, mais la souffrance m
 Examiner attentivement son existence permet à l’être humain d’adapter son comportement à toute circonstance : Savoir faire, et aussi savoir ne pas faire
 
 Développer une intelligence universelle, pour éviter de souffrir et faire souffrir
+
