@@ -1,4 +1,4 @@
-# Accueil du site
+## Accueil du site
 
 présentation de la démarche de recherche sur l'origine de la souffrance
 
