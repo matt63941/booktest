@@ -18,6 +18,7 @@ Les animaux ont beaucoup de problèmatiques existentielles, mais la souffrance m
 
 Examiner attentivement son existence permet à l’être humain d’adapter son comportement à toute circonstance : Savoir faire, et aussi savoir ne pas faire
 
-Développer une intelligence universelle, pour éviter de souffrir et faire souffrir
+### Développer une intelligence universelle, pour éviter de souffrir et faire souffrir
 
 Périmètre de l’investigation : la raison nécessite d’examiner tous les faits pour avancer
+
