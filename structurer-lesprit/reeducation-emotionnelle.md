@@ -48,5 +48,3 @@ De la considération à la compréhension -intégrer notre contexte social et cu
 
 -le communautarisme permet à des groupes délimités de vivre «correctement » ensemble, càd en maximisant le nombre de personnes heureuses, et en limitant le nombre de personnes en souffrances ; mais cela ne permet pas de faire circuler des individus au travers des différentes sociétés
 
-
-
